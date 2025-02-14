@@ -1,10 +1,14 @@
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=24mlight&theme=buefy" />
+</a>
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=24mlight&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **🐱 My GitHub Data** 
 
