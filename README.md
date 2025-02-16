@@ -4,25 +4,19 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=24mlight&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-149-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-🌆 Daytime                57 commits          ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌃 Evening                64 commits          ███████████░░░░░░░░░░░░░░   45.07 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌆 Daytime                58 commits          ██████████░░░░░░░░░░░░░░░   40.56 % 
+🌃 Evening                64 commits          ███████████░░░░░░░░░░░░░░   44.76 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
 
 **I Mostly Code in Python** 
 
@@ -41,5 +35,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 06:33:14 UTC
+ Last Updated on 16/02/2025 06:38:55 UTC
 <!--END_SECTION:waka-->
