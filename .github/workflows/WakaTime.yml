@@ -20,3 +20,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "False"
           SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
