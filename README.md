@@ -4,9 +4,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=24mlight&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-440-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-451-blue)
 
 **I'm an Early 🐤** 
 
@@ -21,11 +21,11 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████████████░░░░░░   75.00 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   13 repos            ███████████████████░░░░░░   76.47 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -35,5 +35,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 18:44:09 UTC
+ Last Updated on 13/03/2025 18:43:18 UTC
 <!--END_SECTION:waka-->
