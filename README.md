@@ -4,7 +4,19 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=24mlight&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2018%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-467-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+🌆 Daytime                296 commits         ████████████░░░░░░░░░░░░░   49.92 % 
+🌃 Evening                216 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+```
+
 
 **I Mostly Code in Python** 
 
@@ -23,5 +35,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:44:37 UTC
+ Last Updated on 03/05/2025 18:42:38 UTC
 <!--END_SECTION:waka-->
