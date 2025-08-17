@@ -5,8 +5,6 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=24mlight&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2012%20mins-blue)
 
