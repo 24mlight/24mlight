@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -25,11 +25,11 @@
 **I Mostly Code in Python** 
 
 ```text
-Python                   50 repos            ██████████████████░░░░░░░   72.46 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   49 repos            ██████████████████░░░░░░░   72.06 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -39,5 +39,5 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 19:54:34 UTC
+ Last Updated on 24/03/2026 20:01:12 UTC
 <!--END_SECTION:waka-->
