@@ -10,6 +10,16 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                671 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+🌆 Daytime                1492 commits        ████████████░░░░░░░░░░░░░   48.49 % 
+🌃 Evening                875 commits         ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+```
+
+
 **I Mostly Code in Python** 
 
 ```text
@@ -27,5 +37,5 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 20:20:40 UTC
+ Last Updated on 18/05/2026 20:50:02 UTC
 <!--END_SECTION:waka-->
