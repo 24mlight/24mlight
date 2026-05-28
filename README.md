@@ -8,19 +8,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2023%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                674 commits         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-🌆 Daytime                1508 commits        ████████████░░░░░░░░░░░░░   48.50 % 
-🌃 Evening                884 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-🌙 Night                  43 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-```
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -39,5 +27,5 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 21:10:29 UTC
+ Last Updated on 28/05/2026 21:21:28 UTC
 <!--END_SECTION:waka-->
