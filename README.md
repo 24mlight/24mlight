@@ -8,6 +8,10 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -43,5 +47,5 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/24mlight/24mlight/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:46:53 UTC
+ Last Updated on 29/07/2026 20:36:52 UTC
 <!--END_SECTION:waka-->
